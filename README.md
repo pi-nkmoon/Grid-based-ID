@@ -13,9 +13,9 @@ Key Highlights:
  
   Data Visualization:
     Created plots using Matplotlib to illustrate relationships between grid size and:
-    Time required for key generation.
-    Memory size of generated keys.
-    Cracking probability, highlighting enhanced security with larger grid sizes.
+      1.Time required for key generation.
+      2.Memory size of generated keys.
+      3.Cracking probability, highlighting enhanced security with larger grid sizes.
   
   Technologies Used:
     Python (Time measurement, data processing, and visualization).
